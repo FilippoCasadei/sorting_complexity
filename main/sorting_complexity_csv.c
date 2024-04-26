@@ -3,9 +3,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "library/sorting_library.h"
-#include "library/sorting_steps_library.h"
-#include "library/testing.h"
+#include "../library/sorting_library.h"
+#include "../library/sorting_steps_library.h"
+#include "../library/testing.h"
 
 /* DEFINIZIONE COSTANTI*/
 #define VAR_INDIP 1

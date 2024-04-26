@@ -55,7 +55,7 @@ Le due tabelle, che è possibile creare, si basano sui seguenti criteri scelti p
 
 ### PROGAMMI
 
-Ci sono due programmi simili implementati per la realizzazione del progetto:
+Sono stati implementati due programmi simili per la realizzazione del progetto:
 
 ###### sorting_complexity.c
 
@@ -73,16 +73,14 @@ Ci sono due programmi simili implementati per la realizzazione del progetto:
 
 ### LIBRERIE
 
-Sono state implementate tre librerie locali:
-
 ###### sorting_library.h
 
-Contiene le sei funzioni di ordinamento.
+* Contiene le sei funzioni di ordinamento.
 
 ###### sorting_steps_library.h
 
-Contiene le sei funzioni di ordinamento che restituiscono la variabile "steps" che viene aggiornata ad ogni passo base eseguito durante la funzione.
+* Contiene le sei funzioni di ordinamento che restituiscono la variabile "steps" che viene aggiornata ad ogni passo base eseguito durante la funzione.
 
 ###### testing.h
 
-Contiene la funzione per la stampa degli array utilizzata durante il periodo di testing e debugging.
+* Contiene la funzione per la stampa degli array utilizzata durante il periodo di testing e debugging.

@@ -33,7 +33,15 @@ Le tabelle sono formate da:
 * NOTA: il numero di *record* dipende dalla dimensione scelta per la colonna N
 
 
+Le due tabelle, che è possibile creare, si basano sui seguenti criteri scelti per calcolare la complessità:
+
+1. Tempo di esecuzione
+2. Passi base eseguiti dall'algoritmo
+
+
 *Esempio di tabella*
+
+**TEMPO DI ESECUZIONE (ms) / PASSI ESEGUITI**
 
 |  n  | bubble | select | insert | merge | quick | heap |
 | :--: | ------ | ------ | ------ | ----- | ----- | ---- |
@@ -45,18 +53,9 @@ Le tabelle sono formate da:
 
 
 
-Le due tabelle, che è possibile creare, si basano sui seguenti criteri scelti per calcolare la complessità:
-
-1. Tempo di esecuzione
-2. Passi base eseguiti dall'algoritmo
-
-
 ### PROGAMMI
 
 Ci sono due programmi simili implementati per la realizzazione del progetto:
-
-* sorting_complexity.c
-* sorting_complexity_csv.c
 
 ###### sorting_complexity.c
 
@@ -74,11 +73,7 @@ Ci sono due programmi simili implementati per la realizzazione del progetto:
 
 ### LIBRERIE
 
-Le librerie utilizzate sono:
-
-* sorting_library.h
-* sorting_steps_library.h
-* testing.h
+Sono state implementate tre librerie locali:
 
 ###### sorting_library.h
 

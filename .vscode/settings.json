@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sorting_library.h": "c",
+        "sorting_steps_library.h": "c",
+        "testing.h": "c"
+    }
+}
